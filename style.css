@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-image: url("https://i.gifer.com/embedded/download/MT7X.gif");
+}
+@import url("https://fonts.googleapis.com/css2?family=Jost&display=swap");
+
+.titlefont {
+  font-family: "Jost", sans-serif;
+}
+
+.bio {
+  color: white;
+}
+.orangebg {
+  background-color: orange;
+  text-align: center;
+}

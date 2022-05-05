@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+      This is the page head - it contains info the browser uses to display the page
+      You won't see what's in the head in the page
+      Scroll down to the body element for the page content
+    -->
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- 
+      This is an HTML comment
+      You can write text in a comment and the content won't be visible in the page
+    -->
+
+    <!-- 
+      this is a comment 
+    -->
+    <title>this is whatever</title>
+  </head>
+
+  <body>
+    <!--
+      This is the body of the page
+      Look at the elements and see how they appear in the rendered page on the right
+      Each element is defined using tags, with < and > indicating where each one opens and closes
+      There are elements for sections of the page, images, text, and more
+      The elements include attributes referenced in the CSS for the page style
+    -->
+    <div class="titlefont">
+      <h1 class="orangebg">Séance</h1>
+      <h2>Lyrics</h2>
+
+      <h4>60 Ways to Save Your Skin</h4>
+      Think it’s cooler when I didn’t pretend That I’m in love with diet trends
+      <br />
+      I’m sorry Regis but I’m phoning a friend I think I’ll ask the audience
+      <br />
+      I pass time take advantage of all your fears <br />
+      Pioneer sewing sutures til the cut adheres <br />
+      I pass time take advantage of all your fears <br />
+      And I die on the side of the road <br />
+      With the deer and he spoke in code <br />
+      With all those lines he wrote <br />
+      Stay still. Relapse. Implode. <br />
+      Let’s spend money on the pills we like And never ever go outside <br />
+      Speak in tongues and we’ll die on the car ride <br />
+      Dry your skin and let your dreams die <br />
+      My oh my oh my <br />
+      Stay still, relapse and let your dreams die <br />
+      You were cooler when you didn’t pretend You cherry pick your problem
+      friends <br />
+      I’m sorry honey but the package was sent <br />
+      So you accuse the audience <br />
+      I pass time drink a 120 beers <br />
+      Colonizer with the siren blowin out my ears <br />
+      Pass time drink 120 beers <br />
+      You know I love it when you pick n choose I’m gonna take your life before
+      those smokes do
+      <h4>Tatís</h4>
+      When you need me the most I can waste all your time <br />
+      When you look like a ghost or when you fall out of line <br />
+      When I'm haunting the coast I can tell you a lie <br />
+      I watch you look at the lights and fall back on mine <br />
+      Said you were a hard fought fight <br />
+      The best in me was the worst you had in mind <br />
+      Saying I'm the worst of my kind <br />
+      You tell me to forget it they're mistakes you made online
+    </div>
+  </body>
+</html>
+
+
+
